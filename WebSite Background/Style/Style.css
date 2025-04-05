@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #000; /* Arka planı siyah yapar */
+	background: url("../Images/snowy-7636721_1920.jpg");
+	background-size: cover;
+}
+
+#videoContainer{
+	opacity: 0.6;
+}
